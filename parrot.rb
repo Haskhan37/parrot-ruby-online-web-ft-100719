@@ -1,1 +1,4 @@
-def parrot = "squawk"
+def parrot 
+  parrot = "squawk"
+end
+
